@@ -2,4 +2,3 @@ Pyrogram
 pytgcalls
 python-dotenv
 TgCrypto
-youtube_dl
